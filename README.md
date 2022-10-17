@@ -1,5 +1,5 @@
 # CF-New-Commers-Sol
-
+Contest Link: https://codeforces.com/group/MWSDmqGsZm/contests
 ### Assalamu'ala manit taba'al huda 👋
 
 <!--
